@@ -37,4 +37,34 @@
             "goods_state": true
         }
     ]
+    "list1" :
+        {
+          "id": 1,
+          "vimg": "https://img11.360buyimg.com/babel/s380x300_jfs/t1/124193/7/20235/50643/5fc1b453Ede1ff346/4cfd67de0ee4869a.jpg.webp",
+          "pvolume": 120,
+          "bchat": 10,
+          "vtitle": "这是标题1",
+        },
+        {
+          "id": 2,
+          "vimg": "https://img11.360buyimg.com/babel/s380x300_jfs/t1/124193/7/20235/50643/5fc1b453Ede1ff346/4cfd67de0ee4869a.jpg.webp",
+          "pvolume": 120,
+          "bchat": 10,
+          "vtitle": "这是标题2",
+        },
+        {
+          "id": 3,
+          "vimg": "https://img11.360buyimg.com/babel/s380x300_jfs/t1/124193/7/20235/50643/5fc1b453Ede1ff346/4cfd67de0ee4869a.jpg.webp",
+          "pvolume": 120,
+          "bchat": 10,
+          "vtitle": "这是标题3",
+        },
+        {
+          "id": 4,
+          "vimg": "https://img11.360buyimg.com/babel/s380x300_jfs/t1/124193/7/20235/50643/5fc1b453Ede1ff346/4cfd67de0ee4869a.jpg.webp",
+          "pvolume": 120,
+          "bchat": 10,
+          "vtitle": "这是标题4",
+        },
+      ],
 }
