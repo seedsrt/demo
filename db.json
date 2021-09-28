@@ -37,7 +37,7 @@
             "goods_state": true
         }
     ]
-    "list1" :
+    "list1" :[
         {
           "id": 1,
           "vimg": "https://img11.360buyimg.com/babel/s380x300_jfs/t1/124193/7/20235/50643/5fc1b453Ede1ff346/4cfd67de0ee4869a.jpg.webp",
